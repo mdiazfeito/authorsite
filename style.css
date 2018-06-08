@@ -155,5 +155,7 @@ ul {
 .works {
   margin-left: 5%;
   margin-right: 5%;
-  overflow: scroll;
+  overflow: auto;
+  position:relative;
+  height:n px;
 }
