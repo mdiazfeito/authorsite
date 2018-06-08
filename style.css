@@ -84,6 +84,14 @@ hr {
   padding: 5px;
 }
 
+li {
+  display: inline;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 5px;
+  width: 40%;
+}
+
 #myBtn {
   display: none;
   position: fixed;
@@ -106,23 +114,10 @@ table {
   width: 100%;
 }
 
-tr {
-  height: 50px;
-}
-
-tr:hover {
-  background-color: #f5f5f5;
-}
-
 table,
 th,
 td {
   border: 1px solid black;
-}
-
-thead {
-  text-align: Center;
-  font-family: Arial;
 }
 
 tbody {
@@ -138,12 +133,17 @@ th {
   background-color: white;
 }
 
-li {
-  display: inline;
+thead {
+  text-align: Center;
   font-family: Arial;
-  font-size: 20px;
-  padding: 5px;
-  width: 40%;
+}
+
+tr {
+  height: 50px;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
 }
 
 ul {
