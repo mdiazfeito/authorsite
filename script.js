@@ -1,4 +1,5 @@
  function randomlinks() {
+   var iframe = $("#readrandom");
    var myrandom = Math.round(Math.random() * 19)
    var links = new Array()
    links[0] = "https://entropymag.org/the-birds-an-ibis-in-the-bronx/"
@@ -22,7 +23,7 @@
    links[18] = "http://www.acentosreview.com/february2015/michael-diaz-feito.html"
    links[19] = "http://tnypress.tumblr.com/post/118800076267/construction-101-by-michael-d%C3%ADaz-feito"
 
-   window.location = links[myrandom]
+   document.getElementById('readrandom').src = links[myrandom];
  }
  
 var $table = $('table');
