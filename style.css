@@ -83,6 +83,15 @@ hr {
   padding: 5px;
 }
 
+iframe {
+  border: none;
+  display: block;
+  height: 300px;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+}
+
 li {
   display: inline;
   font-family: Arial;
