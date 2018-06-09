@@ -86,8 +86,8 @@ hr {
 iframe {
   border: 1px solid black;
   display: block;
-  height: 350px;
   margin: 0 auto;
+  min-height: 350px;
   padding: 0;
   width: 100%;
 }
