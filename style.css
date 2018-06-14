@@ -188,9 +188,8 @@ ul {
 }
 
 .works {
-  margin-left: 5%;
-  margin-right: 5%;
   overflow: auto;
   position:relative;
   height:n px;
+  width: 100%;
 }
