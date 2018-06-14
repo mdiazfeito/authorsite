@@ -1,5 +1,10 @@
 /*
 * Credits:
+*
+* Random link button- By JavaScript Kit (http://javascriptkit.com)
+* Over 300+ free scripts!
+* This credit MUST stay intact for use
+* 
 * jQuery.floatThead
 * http://mkoryak.github.io/floatThead/
 * Copyright (c) 2012-2017 Misha Koryak.
