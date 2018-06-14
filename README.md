@@ -1,3 +1,4 @@
 # authorsite
 <br>
-<p>I write weird fiction and poetry, and this is my author website. It includes a linked bibliography.</p>
+<p>I write weird fiction and poetry, and this is my author website. It includes a linked bibliography.
+- Michael Díaz Feito</p>
