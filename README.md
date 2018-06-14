@@ -9,4 +9,5 @@
 <p>Project: jQuery.floatThead http://mkoryak.github.io/floatThead/</p>
 <p>Copyright &copy; 2012-2017 Misha Koryak</p>
 <p>License (MIT) https://opensource.org/licenses/MIT</p>
+<br>
 <p>Copyright &copy; 2018 Michael Díaz Feito</p>
