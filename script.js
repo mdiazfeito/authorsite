@@ -1,4 +1,12 @@
- function randomlinks() {
+/*
+* Credits:
+* jQuery.floatThead
+* http://mkoryak.github.io/floatThead/
+* Copyright (c) 2012-2017 Misha Koryak.
+* Copyrights licensed under the MIT License.
+*/
+
+function randomlinks() {
    var iframe = $("#readrandom");
    var myrandom = Math.round(Math.random() * 19)
    var links = new Array()
