@@ -193,3 +193,12 @@ ul {
   height:n px;
   width: 100%;
 }
+
+@media only screen and (max-width: 600px) {
+  iframe {
+    max-width: 90%;
+  }
+  #myBtn {
+    visibility: hidden;
+  }
+}
