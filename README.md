@@ -2,6 +2,7 @@
 <h1>about</h1>
 <br>
 <p>I write weird fiction and poetry, and this is my author website. It includes a linked bibliography.</p>
+<p>Copyright &copy; 2018 Michael Díaz Feito</p>
 <br>
 <h1>credits</h1>
 <br>
@@ -18,5 +19,3 @@
 <p>Project: Random link button http://javascriptkit.com</p>
 <p>Copyright &copy; 2000 JavaScript Kit</p>
 <p>Free use with specified attribution http://www.javascriptkit.com/cutpastejava.shtml</p>
-<br>
-<p>Copyright &copy; 2018 Michael Díaz Feito</p>
