@@ -1,6 +1,9 @@
-/*
+/*!
 * Credits:
 *
+* Font Awesome Free 5.0.13 by @fontawesome - https://fontawesome.com
+* License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+* 
 * Random link button- By JavaScript Kit (http://javascriptkit.com)
 * Over 300+ free scripts!
 * This credit MUST stay intact for use
