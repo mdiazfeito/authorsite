@@ -16,7 +16,7 @@
 
 function randomlinks() {
    var iframe = $("#readrandom");
-   var myrandom = Math.round(Math.random() * 19)
+   var myrandom = Math.round(Math.random() * 21)
    var links = new Array()
    links[0] = "https://entropymag.org/the-birds-an-ibis-in-the-bronx/"
    links[1] = "https://dmdujour.wordpress.com/2018/05/01/michael-diaz-feito-cradle-song/"
@@ -38,6 +38,8 @@ function randomlinks() {
    links[17] = "http://tnypress.tumblr.com/post/122355163982/herminia-by-michael-d%C3%ADaz-feito-el-acto-de-matar"
    links[18] = "http://www.acentosreview.com/february2015/michael-diaz-feito.html"
    links[19] = "http://tnypress.tumblr.com/post/118800076267/construction-101-by-michael-d%C3%ADaz-feito"
+   links[20] = "http://www.bigecho.org/the-terraformers-swan-song"
+   links[21] = "http://www.leopardskinandlimes.com/the-guaxi/"
 
    document.getElementById('readrandom').src = links[myrandom];
  }
