@@ -16,7 +16,7 @@
 
 function randomlinks() {
    var iframe = $("#readrandom");
-   var myrandom = Math.round(Math.random() * 22)
+   var myrandom = Math.round(Math.random() * 23)
    var links = new Array()
    links[0] = "https://entropymag.org/the-birds-an-ibis-in-the-bronx/"
    links[1] = "https://dmdujour.wordpress.com/2018/05/01/michael-diaz-feito-cradle-song/"
@@ -41,6 +41,7 @@ function randomlinks() {
    links[20] = "http://www.bigecho.org/the-terraformers-swan-song"
    links[21] = "http://www.leopardskinandlimes.com/the-guaxi/"
    links[22] = "http://strangehorizons.com/poetry/cagastrophe-in-steerage/"
+   links[23] = "https://medium.com/the-operating-system/ex-spec-po-presents-red-bird-by-michael-d%C3%ADaz-feito-55dca88ae66f"
 
    document.getElementById('readrandom').src = links[myrandom];
  }
