@@ -16,7 +16,7 @@
 
 function randomlinks() {
    var iframe = $("#readrandom");
-   var myrandom = Math.round(Math.random() * 17)
+   var myrandom = Math.round(Math.random() * 14)
    var links = new Array()
    links[0] = "https://entropymag.org/the-birds-an-ibis-in-the-bronx/"
    links[1] = "https://dmdujour.wordpress.com/2018/05/01/michael-diaz-feito-cradle-song/"
@@ -28,14 +28,11 @@ function randomlinks() {
    links[7] = "https://www.bigecho.org/dying-in-miami-in-the-sun"
    links[8] = "https://futurefire.net/2016.36/fiction/holymanyminds.html"
    links[9] = "https://www.jerseydevilpress.com/?page_id=7060"
-   links[10] = "https://tnypress.tumblr.com/post/128722123512/the-guaxi-by-michael-d%C3%ADaz-feito-it-was-again-too"
-   links[11] = "https://www.hinchasdepoesia.com/wp/cradle-song/"
-   links[12] = "https://flapperhouse.com/2015/10/31/ewart-fiction-by-michael-diaz-feito/"
-   links[13] = "https://www.jerseydevilpress.com/?page_id=%206791"
-   links[14] = "https://tnypress.tumblr.com/post/122355163982/herminia-by-michael-d%C3%ADaz-feito-el-acto-de-matar"
-   links[15] = "https://tnypress.tumblr.com/post/118800076267/construction-101-by-michael-d%C3%ADaz-feito"
-   links[16] = "https://www.bigecho.org/the-terraformers-swan-song"
-   links[17] = "https://www.leopardskinandlimes.com/the-guaxi/"
+   links[10] = "https://www.hinchasdepoesia.com/wp/cradle-song/"
+   links[11] = "https://flapperhouse.com/2015/10/31/ewart-fiction-by-michael-diaz-feito/"
+   links[12] = "https://www.jerseydevilpress.com/?page_id=%206791"
+   links[13] = "https://www.bigecho.org/the-terraformers-swan-song"
+   links[14] = "https://www.leopardskinandlimes.com/the-guaxi/"
 
    document.getElementById('readrandom').src = links[myrandom];
  }
