@@ -16,7 +16,7 @@
 
 function randomlinks() {
    var iframe = $("#readrandom");
-   var myrandom = Math.round(Math.random() * 14)
+   var myrandom = Math.round(Math.random() * 15)
    var links = new Array()
    links[0] = "https://entropymag.org/the-birds-an-ibis-in-the-bronx/"
    links[1] = "https://dmdujour.wordpress.com/2018/05/01/michael-diaz-feito-cradle-song/"
@@ -33,6 +33,7 @@ function randomlinks() {
    links[12] = "https://www.jerseydevilpress.com/?page_id=%206791"
    links[13] = "https://www.bigecho.org/the-terraformers-swan-song"
    links[14] = "https://www.leopardskinandlimes.com/the-guaxi/"
+   links[15] = "https://flapperhouse.com/2019/02/22/the-mandrills-smile-fiction-by-michael-diaz-feito/"
 
    document.getElementById('readrandom').src = links[myrandom];
  }
