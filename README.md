@@ -2,7 +2,7 @@
 <h1>about</h1>
 <br>
 <p>I write weird fiction and poetry, and this is my author website. It includes a linked bibliography.</p>
-<p>Copyright &copy; 2018 Michael Díaz Feito</p>
+<p>Copyright &copy; 2018-2019 Michael Díaz Feito</p>
 <br>
 <h1>credits</h1>
 <br>
