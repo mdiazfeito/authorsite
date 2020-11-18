@@ -15,7 +15,7 @@ address {
 body {
   margin-left: 10%;
   margin-right: 10%;
-  font-size: 150%;
+  font-size: 200%;
 }
 
 .btn-group {
@@ -139,14 +139,14 @@ li {
   bottom: 20px;
   right: 1.5%;
   z-index: 99;
-  font-size: 150%;
+  font-size: 200%;
   outline: none;
   cursor: pointer;
 }
 
 p {
   font-family: Courier;
-  font-size: 150%;
+  font-size: 200%;
   line-height: 2;
 }
 
