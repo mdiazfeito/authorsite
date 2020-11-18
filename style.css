@@ -60,14 +60,14 @@ button:hover {
 
 #copyright {
   font-family: Arial;
-  font-size: 200%;
+  font-size: 150%;
   text-align: center;
   margin-bottom: 2%;
 }
 
 figcaption {
   font-family: Arial;
-  font-size: 200%;
+  font-size: 150%;
   padding: 5px;
   text-align: right;
 }
@@ -96,7 +96,7 @@ h1 {
 
 h2 {
   font-family: Arial;
-  font-size: 300%;
+  font-size: 275%;
   text-align: center;
 }
 
@@ -139,14 +139,14 @@ li {
   bottom: 20px;
   right: 1.5%;
   z-index: 99;
-  font-size: 200%;
+  font-size: 150%;
   outline: none;
   cursor: pointer;
 }
 
 p {
   font-family: Courier;
-  font-size: 200%;
+  font-size: 150%;
   line-height: 2;
 }
 
@@ -164,6 +164,7 @@ td {
 
 tbody {
   font-family: Courier;
+  font-size: 150%;
 }
 
 td {
