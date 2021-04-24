@@ -150,8 +150,7 @@ li {
 }
 
 #nav_container li a { 
-  padding: 10px; 
-  display: block;
+  padding: 2.5%;
 }
 p {
   font-family: Courier;
