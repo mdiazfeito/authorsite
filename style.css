@@ -149,6 +149,10 @@ li {
   font-size: 150%;
 }
 
+#nav_container li a { 
+  padding: 10px; 
+  display: block;
+}
 p {
   font-family: Courier;
   font-size: 120%;
