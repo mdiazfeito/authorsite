@@ -6,6 +6,10 @@ html {
   box-sizing: border-box;
 }
 
+a {
+  padding: 8px;
+}
+
 address {
   font-family: Courier;
   font-style: normal;
