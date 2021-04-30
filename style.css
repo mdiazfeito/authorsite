@@ -68,8 +68,9 @@ button:hover {
 }
 
 figcaption {
+  font-size: inherit;
   font-family: Arial;
-  padding: 5px;
+  padding: 8px;
   text-align: right;
 }
 
