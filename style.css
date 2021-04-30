@@ -9,14 +9,12 @@ html {
 address {
   font-family: Courier;
   font-style: normal;
-  font-size: 160%;
   line-height: 2;
 }
 
 body {
   margin-left: 10%;
   margin-right: 10%;
-  font-size: 140%;
 }
 
 .btn-group {
@@ -46,7 +44,6 @@ button {
   border-radius: 5px;
   display: block;
   font-family: Courier;
-  font-size: 220%;
   color: white;
   margin: 0 auto;
   padding: 10px 20px;
@@ -61,14 +58,12 @@ button:hover {
 
 #copyright {
   font-family: Arial;
-  font-size: 140%;
   text-align: center;
   margin-bottom: 2%;
 }
 
 figcaption {
   font-family: Arial;
-  font-size: 140%;
   padding: 5px;
   text-align: right;
 }
@@ -89,7 +84,6 @@ footer {
 
 h1 {
   font-family: Arial;
-  font-size: 370%;
   line-height: 1;
   margin-top: 50px;
   padding: 0px;
@@ -97,7 +91,6 @@ h1 {
 
 h2 {
   font-family: Arial;
-  font-size: 295%;
   text-align: center;
 }
 
@@ -125,7 +118,6 @@ display: block;
 li {
   display: inline;
   font-family: Arial;
-  font-size: 140%;
   padding: 5px;
   width: 40%;
 }
@@ -145,13 +137,12 @@ li {
   bottom: 20px;
   right: 1.5%;
   z-index: 99;
-  font-size: 170%;
   outline: none;
   cursor: pointer;
 }
 
 #nav_container {
-  font-size: 170%;
+
 }
 
 #nav_container li a { 
@@ -159,7 +150,6 @@ li {
 }
 p {
   font-family: Courier;
-  font-size: 140%;
   line-height: 2;
 }
 
@@ -177,7 +167,6 @@ td {
 
 tbody {
   font-family: Courier;
-  font-size: 140%;
 }
 
 td {
