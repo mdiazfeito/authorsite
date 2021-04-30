@@ -116,7 +116,7 @@ iframe {
 }
 
 img {
-max-width: 100%;
+max-width: 110%;
 display: block;
 }
 
@@ -132,7 +132,7 @@ li {
   height: auto;
   margin-left: auto;
   margin-right: auto;
-  min-width: 100%;
+  min-width: 110%;
   opacity: 0.9;
 }
 
